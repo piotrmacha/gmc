@@ -1321,6 +1321,30 @@
         <xhtml:link rel="alternate" hreflang="cs" href="https://auronen.cokoliv.eu/gmc/cs/zengin/scripts/extenders/lego/tools/int64/"/>
     </url>
     <url>
+        <loc>https://auronen.cokoliv.eu/gmc/zengin/scripts/extenders/lego/tools/interface/</loc>
+        <lastmod>2023-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://auronen.cokoliv.eu/gmc/zengin/scripts/extenders/lego/tools/interface/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://auronen.cokoliv.eu/gmc/pl/zengin/scripts/extenders/lego/tools/interface/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://auronen.cokoliv.eu/gmc/cs/zengin/scripts/extenders/lego/tools/interface/"/>
+    </url>
+    <url>
+        <loc>https://auronen.cokoliv.eu/gmc/pl/zengin/scripts/extenders/lego/tools/interface/</loc>
+        <lastmod>2023-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://auronen.cokoliv.eu/gmc/zengin/scripts/extenders/lego/tools/interface/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://auronen.cokoliv.eu/gmc/pl/zengin/scripts/extenders/lego/tools/interface/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://auronen.cokoliv.eu/gmc/cs/zengin/scripts/extenders/lego/tools/interface/"/>
+    </url>
+    <url>
+        <loc>https://auronen.cokoliv.eu/gmc/cs/zengin/scripts/extenders/lego/tools/interface/</loc>
+        <lastmod>2023-05-18</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://auronen.cokoliv.eu/gmc/zengin/scripts/extenders/lego/tools/interface/"/>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://auronen.cokoliv.eu/gmc/pl/zengin/scripts/extenders/lego/tools/interface/"/>
+        <xhtml:link rel="alternate" hreflang="cs" href="https://auronen.cokoliv.eu/gmc/cs/zengin/scripts/extenders/lego/tools/interface/"/>
+    </url>
+    <url>
         <loc>https://auronen.cokoliv.eu/gmc/zengin/scripts/extenders/lego/tools/item_helper/</loc>
         <lastmod>2023-05-18</lastmod>
         <changefreq>daily</changefreq>
